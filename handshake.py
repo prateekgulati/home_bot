@@ -1,3 +1,5 @@
+__author__ = 'Prateek'
+
 import serial
 import time
 
